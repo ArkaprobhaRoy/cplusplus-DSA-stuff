@@ -1,1 +1,2 @@
-# c++ -DSA-stuff
+# c-programming
+dsa stuff
